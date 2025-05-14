@@ -20,7 +20,7 @@ Welcome to my portfolio repository! This project showcases my work, skills, and 
 ## Contact
 
 Feel free to reach out to me for any questions or opportunities:
-- **Email**: your-email@example.com
+- **Email**: sumiayaaiman@gmail.com
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/sumiaya-aiman-9b1a20349)
 
 Thank you for visiting my portfolio!
